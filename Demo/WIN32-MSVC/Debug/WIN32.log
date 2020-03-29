@@ -1,0 +1,8 @@
+﻿  main_blinky.c
+G:\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(155,18): warning C4189: 'xTimerPeriod': local variable is initialized but not referenced
+G:\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(330,29): warning C4100: 'pvParameters': unreferenced formal parameter
+G:\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(334,29): warning C4100: 'pvParameters': unreferenced formal parameter
+G:\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(345,14): warning C4459: declaration of 'state' hides global declaration
+G:\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(210,5): message : see declaration of 'state'
+G:\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(345,6): warning C4189: 'state': local variable is initialized but not referenced
+  WIN32.vcxproj -> G:\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-MSVC\.\Debug\RTOSDemo.exe
